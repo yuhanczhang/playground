@@ -1,5 +1,5 @@
 # Playground
-AC207 practicum LING101 LING98a
+Yuhan Zhang is taking AC207, practicum, LING101, and LING98a.
 
 A place to play with `git`.
 
